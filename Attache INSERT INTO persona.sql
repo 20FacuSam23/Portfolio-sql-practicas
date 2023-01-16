@@ -1,0 +1,2 @@
+INSERT INTO persona
+VALUES (1, 'Facundo', 'Samela', 'Int. Brugo', '1986-09-13', '+54 343 698-5783', 'facundo.samela@hotmail.com', 'Me encunetro sumando distinciones informaticas, precisamente del secto "developer"(programción)', 'http://biseltree.tech/foto.jpg')
